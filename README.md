@@ -1,2 +1,2 @@
 # Adopt-a-Buddy
-Raw input data files and initial test .ipynb file added
+## A Hacker Earth Competetion: [Adopt a Buddy](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/)
